@@ -1,0 +1,21 @@
+{
+    "name": "mb/optimization-bundle",
+    "type": "symfony-bundle",
+    "license": "Private",
+    "description": "An optimization bundle dedicated ton simplify headers management and html compression",
+    "keywords": ["html", "header", "compression", "symfony"],
+    "authors": [
+        {
+            "name": "Michael Barbey",
+            "email": "michael@mb-webdev.ch"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "2.*"
+    },
+    "autoload": {
+        "psr-0": { "MB\\Bundle\\OptimizationBundle": "" }
+    },
+    "target-dir": "MB/Bundle/OptimizationBundle"
+}
