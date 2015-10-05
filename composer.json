@@ -1,7 +1,7 @@
 {
     "name": "mb/optimization-bundle",
     "type": "symfony-bundle",
-    "license": "Private",
+    "license": "MIT",
     "description": "An optimization bundle dedicated ton simplify headers management and html compression",
     "keywords": ["html", "header", "compression", "symfony"],
     "authors": [
