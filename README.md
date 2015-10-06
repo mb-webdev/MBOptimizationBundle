@@ -50,13 +50,8 @@ mb_optimization:
         value: "1; mode=block"          # optional : value of this header attribute (default value : "1; mode=block")
     content_security_policy:
         enabled: false                  # required : enable/disable Content-Security-Policy header
-        value:                          # optional : automatically add "self" to the list of sources
-            - "'unsafe-inline'"
-            - "'unsafe-eval'"
-            - "data:"
-            - "*.googleapis.com"
-            - "*.gstatic.com"
-            - "*.google.com"
-            - "www.youtube.com"
-            - "player.vimeo.com"
+        value:                          # optional : array of values for this header attribute (automatically add "self" to the list of sources)
+            - "source1.com"
+            - "source2.com"
+            - "*.source3.com"
 ```
