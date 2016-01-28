@@ -1,5 +1,5 @@
 {
-    "name": "mb/optimization-bundle",
+    "name": "mb-webdev/optimization-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "description": "An optimization bundle dedicated to simplify headers management and html compression",
