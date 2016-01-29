@@ -1,7 +1,10 @@
 # SecureDisplayBundle
 MBOptimizationBundle is a small simple bundle which perform some optimization on the http response such adding security headers, compressing html, etc...
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/af0dd190-5fee-447c-94a2-0eb120d8cd7f/big.png)](https://insight.sensiolabs.com/projects/af0dd190-5fee-447c-94a2-0eb120d8cd7f)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/2e682a6f-3671-41bd-968c-25c1ae261c44/big.png)](https://insight.sensiolabs.com/projects/2e682a6f-3671-41bd-968c-25c1ae261c44)
+
+[![Latest Stable Version](https://poser.pugx.org/mb-webdev/optimization-bundle/v/stable)](https://packagist.org/packages/mb-webdev/optimization-bundle)
+[![License](https://poser.pugx.org/mb-webdev/optimization-bundle/license)](https://packagist.org/packages/mb-webdev/optimization-bundle)
 
 ## Installation
 
