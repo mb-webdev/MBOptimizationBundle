@@ -1,4 +1,4 @@
-# SecureDisplayBundle
+# MBOptimizationBundle
 MBOptimizationBundle is a small simple bundle which perform some optimization on the http response such adding security headers, compressing html, etc...
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/2e682a6f-3671-41bd-968c-25c1ae261c44/big.png)](https://insight.sensiolabs.com/projects/2e682a6f-3671-41bd-968c-25c1ae261c44)
